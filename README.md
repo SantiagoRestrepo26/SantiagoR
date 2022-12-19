@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/puni_xa">
-<img align="right" height="auto" width="200" src=""/> 
+<img align="right" height="auto" width="200" src="https://pbs.twimg.com/profile_images/1604930481283276810/uxyPJK_G_400x400.jpg"/> 
 </a>
 
 # Sobre mi
